@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">👩🏻‍💻 I am a BSc IT undergraduate at the University of Jaffna with a background in Physical Science from Maliyadeva Balika College, Kurunegala.</h3>
+<h3 align="center">👩🏻‍💻 I am a BSc IT undergraduate at the University of Jaffna with a background in Physical Science from Maliyadeva Balika Vidyalaya, Kurunegala.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
